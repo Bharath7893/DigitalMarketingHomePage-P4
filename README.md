@@ -1,4 +1,4 @@
-# DigitalMarketingHomePage-P4
+# Digital Marketing Home Page
 Webpage built using HTML &amp; CSS without any frameworks.
 
 ## While building this page--Learnt:
